@@ -5,7 +5,6 @@ av funktionen som plockar ut alla filer från en viss path eller hela datorn.
 """
 
 import os, time
-import search_computer as s
 
 def search_modified(date,files):
     files_mod = []
